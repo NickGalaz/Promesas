@@ -5,7 +5,7 @@
 
 ## Unidad: 3 - Trabajo Práctico 5
 
-#### Contenidos Desarrollados:
+#### Contenidos Desarrollado:
 
 - ES6 y POO
 
@@ -27,7 +27,7 @@
 
 - Módulo 6: Desarrollo Backend en Node
 
-- Módulo 7: Acceso a base de datos con Node
+- Módulo 7: Acceso a Base de Datos con Node
 
 - Módulo 8: Framework Express
 
